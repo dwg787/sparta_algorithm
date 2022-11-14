@@ -61,3 +61,5 @@ city_map = [
     [2, 2, 0, 1, 2]
 ]
 print("정답 = 10 / 현재 풀이 값 = ", get_min_city_chicken_distance(5,2,city_map))
+
+print("push to github")
